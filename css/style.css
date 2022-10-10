@@ -516,3 +516,23 @@ body {
   letter-spacing: 0.2em;
   color: var(--description-text);
 }
+
+
+.form-input{
+  display: flex;
+  flex-direction: column;
+}
+.chek{
+  color: #ff6c00;
+}
+
+.form-element{
+  position: relative;
+}
+.form-element{
+  position: absolute;
+  top:50%;
+  left: 0;
+  translate: 0 -50%;
+}
+
